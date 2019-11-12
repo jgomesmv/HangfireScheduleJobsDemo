@@ -1,2 +1,2 @@
 # HangfireScheduleJobsDemo
-A simple demonstration of Hangfire implementation on top of .NetCore
+Implementation of a Single Page Application using Blazor on top of Web Assembly
